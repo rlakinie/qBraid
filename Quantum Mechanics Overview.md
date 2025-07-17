@@ -1,4 +1,3 @@
-
-    Interference
-    Measurements
-    Axioms of Quantum Mechanics (informal)
+- Interference
+- Measurements
+- Axioms of Quantum Mechanics (informal)
