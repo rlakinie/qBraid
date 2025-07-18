@@ -78,8 +78,8 @@ for x, y in inputs:
 
 
 # Problem 2. Write/draw a circuit, consisting of only AND and NOT gates, which implements the OR gate.
-
-print("OR using only AND and NOT (via De Morgan):")
+# I realized I have completely forgotten about De Morgan's Law
+print("OR using only AND and NOT")
 for x, y in inputs:
     z = not (not x and not y)
     print(f"x = {x}, y = {y} -> z = {int(z)}")  # int(z) to print 0 or 1
